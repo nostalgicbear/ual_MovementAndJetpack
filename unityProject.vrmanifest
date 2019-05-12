@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.ual_touchpadnavigation.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Stephen\\2019Projects\\UAL_TouchpadNavigation\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "UAL_TouchpadNavigation [Testing]"
+        }
+      }
+    }
+  ]
+}
